@@ -2,4 +2,4 @@
 
 Used: React, TailwindCSS, themoviedb API
 
-Demo link: [Click here](https://movieapp.ozguryurt.dev/)
+Demo link: [Click here](https://movieappreact.ozguryurt.dev/)
